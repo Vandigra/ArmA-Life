@@ -547,6 +547,30 @@ class LifeCfgVehicles {
             }, "" },
             { "Police", "cop", {
                 "#(ai,64,64,1)Fresnel(1.3,7)"
+            }, "" },
+            { "Sin City", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offroad\Offroad_00000sin.jpg"
+            }, "" },
+            { "Hulk","civ", {
+                "textures\Zivilisten\Fahrzeuge\Offorad\Offroad_H000.jpg"
+            }, "" },
+            { "Eisenkarl", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offroad\Of_Iron.jpg"
+            }, "" },
+            { "Joker", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offroad\Of_Joker.jpg"
+            }, "" },
+            { "Umbrella schwarz", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offorad\Of_Umbrella_Black.jpg"
+            }, "" },
+            { "Umbrella weiss", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offroad\Of_Umbrella_White.jpg"
+            }, "" },
+            { "Fallout", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offroad\Of_Vaul-tec.jpg"
+            }, "" },
+            { "Royal", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offroad\Royal.jpg"
             }, "" }
         };
     };
@@ -595,6 +619,27 @@ will modify the virtual space and the price of the vehicle, but other informatio
             }, "" },
             { "Police", "cop", {
                 "#(ai,64,64,1)Fresnel(1.3,7)"
+            }, "" },
+            { "Schwarz", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Hatchback\Badass_schwarz.jpg"
+            }, "" },
+            { "M-W Weiss", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Hatchback\hatchback_0.jpg"
+            }, "" },
+            { "M-W Grau", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Hatchback\hatchback_BuW.jpg"
+            }, "" },
+            { "Umbrella Schwarz", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Hatchback\HB_Umbrella_Black.jpg"
+            }, "" },
+            { "Umbrella Weiss", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Hatchback\Hb_Umbrella_White,jpg"
+            }, "" },
+            { "Fallout", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Hatchback\HB_Vaul-tec.jpg"
+            }, "" },
+            { "Moon", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Hatchback\hatchback101.jpg"
             }, "" }
         };
     };
@@ -722,6 +767,12 @@ will modify the virtual space and the price of the vehicle, but other informatio
             }, "" },
             { "Police", "cop", {
                 "\a3\soft_f_gamma\SUV_01\Data\suv_01_ext_02_co.paa"
+            }, "" },
+            { "Moon Gelb", "civ", {
+                "textures\Zivilisten\Fahrzeuge\SUV\suv10.jpg"
+            }, "" },
+            { "Moon Blau", "civ", {
+                "textures\Zivilisten\Fahrzeuge\SUV\suv20.jpg"
             }, "" }
         };
     };
