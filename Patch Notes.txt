@@ -1,0 +1,90 @@
+Build 024:
+Gang Tag System. by Julian
+
+Build 023:
+Weitere ArmA Fahrzeuge eingepflegt.
+Überarbeitung einiger vorherigen Builds:
+    - Car Parts für das Schrottplatzfarmen eingefügt
+    - Rubbellose werden nun gespeichert
+Vorberreitung für ein mögliches Craftingsystem.
+
+Build 022:
+Intro. by Nox
+Outro. by Alaskavet
+widthRailWay Fehler gefixt.
+
+Build 021:
+Permanenter Personal- und Dienstausweis. by Rom
+
+Build 020:
+vorrübergehend wieder raus genommen.
+
+Neues Z Menu (Tablet). by Bolex
+    - Für die deutsche sprache umbauen.
+    - Guppen Menu einbauen
+    - Funktionalität für verschiedene Menüstyles einbauen.
+    - Verschiedene Menustyles einbauen.
+
+Build 019:
+Map Marker für Cops und Medics bei Notruf.
+
+Build 018:
+Alarmsystem für Häuser. by CamaroZ
+
+Build 017:
+Statische Drogendealer durch einen Dynamischen getauscht. by Drunken Cheetah
+    - Eventuell einen weiteren Drogendealer einbauen.
+
+Build 016:
+description.ext angepasst.
+
+Build 015:
+Rubbellose hinzugefügt. by Natic
+    - Muss noch im inventar gespeichert werden.
+
+Build 014:
+Autoteile Farmen (Schrottplatz).
+Muss noch weiter ausgebaut werden.
+    - Neue vItems für Autoteile
+
+Build 013:
+Lizenzen im Z Menu Farbig gemacht. by Deathman
+
+Build 012:
+Verwahrungsstelle nach Impounden.
+
+Build 011:
+Fürs tanken bezahlen.
+
+Build 010:
+Unsichtbare Rucksäcke für Cops und Medics.
+
+Build 009:
+AAN News überarbeitet. by Blackfisch
+
+Build 008:
+Spurenfinder fürs Jagdgebiet eingefügt.
+
+Build 007:
+Temporäre Gruppen eingebaut. by Tonic
+
+Build 006:
+Kofferraum speichern.
+Waffen speichern.
+Kofferraum (virtuelle items) in der Garage anzeigen.
+
+Build 005:
+!!! Dieser Build wurde gelöscht !!!
+Lizensshop überarbeitet.
+
+Build 004:
+Hud verändert. by Repentz
+
+Build 003:
+Dynamisches Wetter eingefügt. Script von D41
+
+Build 002:
+Public Cop-Slot entfernt.
+
+Build 001:
+Spyglass angepasst.

@@ -1,0 +1,1 @@
+ALTER TABLE vehicles ADD impound tinyint(1) NOT NULL DEFAULT '0' AFTER alive;
