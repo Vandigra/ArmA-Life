@@ -495,7 +495,16 @@ class LifeCfgVehicles {
         vItemSpace = 60;
         conditions = "license_civ_driver || {!(playerSide isEqualTo civilian)}";
         price = 150000;
-        textures[] = { };
+        textures[] = {
+            { "Forest", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Ifrit\ifrit_forest_body.jpg",
+                "textures\Zivilisten\Fahrzeuge\Ifrit\ifrit_forest_back.jpg"
+            }, "" },
+            { "Grey", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Ifrit\ifrit_grey_body.jpg",
+                "textures\Zivilisten\Fahrzeuge\Ifrit\ifrit_grey_back.jpg"
+            }, "" }
+        };
     };
 
     class C_Offroad_01_F {
@@ -526,6 +535,12 @@ class LifeCfgVehicles {
             { "Blue / White", "civ", {
                 "\A3\soft_F\Offroad_01\Data\offroad_01_ext_BASE05_CO.paa",
                 "\A3\soft_F\Offroad_01\Data\offroad_01_ext_BASE05_CO.paa"
+            }, "" },
+            { "Black", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offroad\Offroad_Black.paa"
+            }, "" },
+            { "Green", "civ", {
+                "textures\Zivilisten\Fahrzeuge\Offroad\Offroad_Green.paa"
             }, "" },
             { "Taxi", "civ", {
                 "#(argb,8,8,3)color(0.6,0.3,0.01,1)"
@@ -698,6 +713,9 @@ will modify the virtual space and the price of the vehicle, but other informatio
             }, "" },
             { "Silver", "civ", {
                 "\a3\soft_f_gamma\SUV_01\Data\suv_01_ext_03_co.paa"
+            }, "" },
+            { "Blanc", "civ", {
+                "textures\Zivilisten\Fahrzeuge\SUV\suv_blanc.paa"
             }, "" },
             { "Orange", "civ", {
                 "\a3\soft_f_gamma\SUV_01\Data\suv_01_ext_04_co.paa"
